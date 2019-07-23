@@ -1,0 +1,19 @@
+C:\Users\User\AppData\Local\Temporary Projects\ABC_PhoneSystem\bin\Debug\ABC_PhoneSystem.exe.config
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\bin\Debug\ABC_PhoneSystem.exe.config
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\bin\Debug\ABC_PhoneSystem.exe
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\bin\Debug\ABC_PhoneSystem.pdb
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Login.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Properties.Resources.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.exe
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.pdb
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Administrator.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.BranchDetail.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.StockController.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Admin_Menu.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.ProductDetails.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Manage_Stock_Info.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.TransferStock.resources
+C:\Users\User\Desktop\HTML\ABC_PhoneSystem\ABC_PhoneSystem\obj\Debug\ABC_PhoneSystem.Help.resources
